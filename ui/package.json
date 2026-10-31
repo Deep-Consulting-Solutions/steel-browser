@@ -48,7 +48,7 @@
     "tailwindcss-animate": "^1.0.7",
     "ua-parser-js": "^1.0.39",
     "usehooks-ts": "^3.1.0",
-    "zod": "^3.23.8"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@hey-api/openapi-ts": "^0.53.6",
